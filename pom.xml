@@ -10,9 +10,9 @@
     </parent>
     <groupId>com.process_automation</groupId>
     <artifactId>process_automation</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-SNAPSHOT</version>
     <name>process_automation</name>
-    <description>Demo project for Spring Boot</description>
+    <description>project for process automation for Spring Boot</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>
